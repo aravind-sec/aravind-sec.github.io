@@ -283,6 +283,7 @@ button { cursor: pointer; border: none; background: none; font: inherit; }
 }
 
 .hero__headline {
+  display: inline-block;
   font-family: var(--font-display);
   font-weight: 800;
   line-height: 1.0;
