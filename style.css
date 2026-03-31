@@ -290,7 +290,7 @@ button { cursor: pointer; border: none; background: none; font: inherit; }
   margin-bottom: 24px;
 }
 .hero__name {
-  display: block;
+  display: inline-block;
   font-size: clamp(52px, 9vw, 100px);
   color: var(--text-1);
 }
